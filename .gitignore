@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local database
+db.sqlite3
+
+# Secrets / local config
+.env
+
+# OS / editor clutter
+.DS_Store
+.vscode/
+.idea/
